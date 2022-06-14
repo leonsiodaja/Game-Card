@@ -1,0 +1,77 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:black;
+    color:white;
+    max-height: 100vh;
+}
+.container{
+    
+}
+.selections{
+    float:left;
+    max-width: 20%;
+    position: relative;
+}
+#myList{
+    display: block;
+    margin-left: 5;
+    margin-right: auto;
+}
+#myPicture{
+    display: block;
+    margin-left: 30%;
+    margin-right: 50%; 
+    height:100vh;
+}
+#buttonRandom{
+    display: block;
+    margin-left: 5;
+    margin-right: auto;
+    width: 50%;
+}
+#buttonLeonsio{
+    display: block;
+    margin-left: 5;
+    margin-right: auto;
+    width: 50%;
+}
+#buttonLeonsio1{
+    display: block;
+    margin-left: 5;
+    margin-right: auto;
+    width: 50%;
+}
+#buttonPic{
+    display: block;
+    width: 100%;
+}
+#buttonPic1{
+    display: block;
+    width: 100%;
+}
+#buttonPic2{
+    display: block;
+    width: 100%;
+}
+#buttonPic:hover{
+    display: block;
+}
+#buttonPic1:hover{
+    display: block;
+}
+#buttonPic2:hover{
+    display: block;
+}
+#buttonPicSc{
+    display: block;
+    margin-left: 5;
+    margin-right: auto;
+    width: 10%;
+    
+}
+#buttonPicSc:hover{
+    display: block;
+}
